@@ -1,3 +1,4 @@
+// Ini adalah program mencari nilai ganjil atau genap sesuai diinputkan user
 #include <iostream>
 #include <string>
 #include <limits>
